@@ -104,4 +104,4 @@ theme: element
 deploy:
   type: git
   repo: http://github.com/chiehLiu.github.io.git
-  branch: master
+  branch: main
