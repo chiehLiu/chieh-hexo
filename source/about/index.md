@@ -1,7 +1,7 @@
 ---
-title:
-  "About": null
+title: About
 date:
-  "[object Object]": null
 mathjax: true
 ---
+
+TEST
