@@ -1,7 +1,7 @@
 ---
 title: About
 date:
-mathjax: true
+layout: about
 ---
 
-TEST
+TEST123
