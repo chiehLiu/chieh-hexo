@@ -2,7 +2,6 @@
 title: JS 幼幼班 - Javascript 篇
 date:
 tags: Javascript
-mathjax: true
 ---
 
 # JS 幼幼班

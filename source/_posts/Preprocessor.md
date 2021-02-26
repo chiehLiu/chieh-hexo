@@ -2,7 +2,7 @@
 layout: p
 title: SASS The Complete SASS Course(CSS Preprocessor)
 date: 2021-02-22 21:58:32
-tags:
+tags: SASS
 ---
 
 # SASS The Complete SASS Course(CSS Preprocessor)

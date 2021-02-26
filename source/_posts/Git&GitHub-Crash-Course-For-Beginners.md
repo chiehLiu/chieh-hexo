@@ -2,7 +2,8 @@
 layout: p
 title: Git & GitHub Crash Course For Beginners
 date: 2021-02-22 22:05:23
-tags:
+tags: Git
+category: Git
 ---
 
 # Git & GitHub Crash Course For Beginners

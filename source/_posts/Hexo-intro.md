@@ -2,7 +2,7 @@
 title: Hexo 部落格架設
 date:
 tags: Hexo
-mathjax: true
+Category: Hexo
 ---
 
 # Hexo 部落格架設
