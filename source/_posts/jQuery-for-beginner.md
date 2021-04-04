@@ -1,8 +1,8 @@
 ---
-title: JS 幼幼班 - jQuery 篇
+title: jQuery-JS 幼幼班 - jQuery 篇(一萬字)
 date:
 tags: jQuery
-mathjax: true
+category: jQuery
 ---
 
 # JS 幼幼班 - jQuery 篇

@@ -1,8 +1,8 @@
 ---
-title: Hexo 部落格架設
-date:
+title: Hexo-部落格架設
+date: 
 tags: Hexo
-Category: Hexo
+category: Hexo
 ---
 
 # Hexo 部落格架設

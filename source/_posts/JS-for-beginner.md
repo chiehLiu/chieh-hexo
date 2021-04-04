@@ -1,7 +1,8 @@
 ---
-title: JS 幼幼班 - Javascript 篇
+title: JS-幼幼班 - Javascript 篇(一萬字)
 date:
 tags: Javascript
+category: Javascript
 ---
 
 # JS 幼幼班
@@ -18,7 +19,7 @@ tags: Javascript
 - 但它們是完全不同的語言
 - JS 後來成為瀏覽器唯一指定「內建程式語言」
 
-### 瀏覽器怎麼運作的
+## 瀏覽器怎麼運作的
 
 有鑑於 JS 是瀏覽器唯一指定「內建程式語言」，當然需要了解瀏覽器是如何運作的
 
